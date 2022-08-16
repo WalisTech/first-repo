@@ -22,7 +22,7 @@ commands.
 CLI -> commnad line interface
 
 Repository -> Project, or the folder/place where
-your project is kept
+your project is kept.
 
 Github -> A website to host your repositores 
 online.
@@ -42,3 +42,5 @@ like github
 
 pull -> Download changes from remote repo to 
 your local machine, the opposite of push.
+
+command --> Git git clone --> to work with your code
